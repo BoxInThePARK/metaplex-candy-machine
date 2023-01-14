@@ -33,7 +33,7 @@ METAPLEX_PRIVATE_KEY=[Secret key of your test wallet address]
 
 command:
 ```Bash
-pnpm install
+pnpm create-candy-machine
 ```
 
 result:
