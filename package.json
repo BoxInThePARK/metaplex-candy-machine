@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "creat-candy-machine": "node ./creator.js",
+    "create-candy-machine": "node ./creator.js",
     "build": "vite build",
     "preview": "vite preview"
   },
